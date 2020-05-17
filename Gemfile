@@ -55,7 +55,7 @@ group :test do
   # gem 'selenium-webdriver'
   # gem 'chromedriver-helper'
   # Easy installation and use of chromedriver to run system tests with Chrome
-  
+
   # 下の６つのgemを追加する
   gem 'rspec-rails'
   gem "factory_bot_rails"
@@ -76,3 +76,5 @@ gem "refile-mini_magick"
 gem 'jquery-rails'
 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
